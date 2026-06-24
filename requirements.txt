@@ -6,4 +6,12 @@ ipykernel
 scikit-learn
 streamlit
 xgboost
-pickle
+joblib
+langchain
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+sentence-transformers
+#langchain-embeddings
+langchain-groq
